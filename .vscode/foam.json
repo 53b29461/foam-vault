@@ -1,0 +1,18 @@
+{
+  "purpose": "foam-vault",
+  "links": "[[wikilinks]]",
+  "linkReferences": "withExtensions",
+  "graph": {
+    "enabled": true,
+    "type": "foam"
+  },
+  "dailyNotes": {
+    "enabled": true,
+    "directory": "Inbox",
+    "titleFormat": "YYYY-MM-DD-daily"
+  },
+  "completions": {
+    "enabled": true,
+    "searchIn": ["title", "content"]
+  }
+}

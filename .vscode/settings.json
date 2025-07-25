@@ -1,0 +1,38 @@
+{
+  "foam.edit.linkReferenceDefinitions": "withExtensions",
+  "foam.openDailyNote.directory": "Inbox",
+  "foam.openDailyNote.titleFormat": "iso-date",
+  "foam.dateSnippets.afterCompletion": "createNote",
+  "markdown.suggest.paths.enabled": true,
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "editor.suggest.showWords": true,
+  "editor.minimap.enabled": false,
+  "editor.wrap": "on",
+  "editor.lineNumbers": "off",
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": true
+  },
+  "foam.graph.style": {
+    "background": "#202020",
+    "fontSize": 12,
+    "lineColor": "#277da1",
+    "lineWidth": 0.2,
+    "particleWidth": 1.0,
+    "highlightedForeground": "#f9db6d",
+    "text": "#cccccc",
+    "focusColor": "#f76707",
+    "hover": {
+      "labelBackgroundColor": "#202020",
+      "labelForegroundColor": "#cccccc"
+    }
+  },
+  "foam.logging": "info",
+  "workbench.colorTheme": "Default Dark+",
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/*/**": true
+  }
+}
